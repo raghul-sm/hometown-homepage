@@ -1,0 +1,74 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(180deg, #E8E7C9, #C5A386);
+    margin-top: 20px;
+}
+
+.s1 {
+    background-image: url("images/ooty.jpg");
+    background-repeat: no-repeat;
+    width: 540px;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.s1 h1 {
+    color: white;
+    border-radius: 10px;
+    background: #19535F;
+    padding: 7px 10px;
+    font-family: 'Tourism', sans-serif;
+}
+
+.s1 h3 {
+    color: white;
+    border-radius: 10px;
+    background: #0B7A75;
+    padding: 7px 10px;
+    margin-top: 0px;
+}
+
+.s2 {
+    text-align: center;
+    background: #E5F4E3;
+    color: #1D3557;
+    padding: 20px 0px;
+}
+.ss2 {
+    width: 700px;
+    display: flex;
+    text-align: center;
+    padding: 20px;
+}
+
+.s2 img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.ss3 {
+    padding: 40px 150px;
+    background: #F1FAEE;
+        
+}
+
+.s3 {
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: start;
+    padding: 20px;
+    background: #88D9E6;
+    border-bottom: 6px solid black;
+}
+
+.s3 img {
+        width: 180px;
+        border-radius: 10px;
+}
